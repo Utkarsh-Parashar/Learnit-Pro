@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "question": "Q1",
+        "ansType": "text",
+        "answer": ["Answer test."],
+        "imgUrl": ""
+    },
+    {
+        "id": 2,
+        "question": "Q2",
+        "ansType": "bullents",
+        "answer": ["Answer test1.","Answer test2."],
+        "imgUrl": ""
+    },
+    {
+        "id": 3,
+        "question": "Q3",
+        "ansType": "tabular",
+        "answer": [["Answer test1."],["Answer test2."]],
+        "imgUrl": ""
+    },
+    {
+        "id": 4,
+        "question": "Q4",
+        "ansType": "codeSnippet",
+        "answer": ["Answer test."],
+        "imgUrl": "assets/image/img_01.jpg"
+    },{
+        "id": 5,
+        "question": "Q5",
+        "ansType": "text",
+        "answer": ["<ng-content> is a special element that accepts markup or a template fragment and controls how components render content. It does not render a real DOM element."],
+        "imgUrl": ""
+    }
+]
