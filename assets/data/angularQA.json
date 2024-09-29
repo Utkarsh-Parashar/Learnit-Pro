@@ -8,9 +8,10 @@
     },
     {
         "id": 2,
-        "question": "Q2",
+        "question": "What is Bootstrap and How to Embed Bootstrap into Angular?",
         "ansType": "bullents",
-        "answer": ["Answer test1.","Answer test2."],
+        "answer": ["Bootstrap is a powerful toolkit, a collection of HTML, CSS, and JavaScript tools to create and build responsive web pages and web applications.",
+        "Bootstrap is a free and open-source project hosted on GitHub and created by Twitter."],
         "imgUrl": ""
     },
     {
